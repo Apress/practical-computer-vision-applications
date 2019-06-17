@@ -1,0 +1,16 @@
+BoxLayout:
+    orientation: "vertical"
+    Label:
+        text: "Predicted Class Appears Here."
+        font_size: 30
+        id: label
+    BoxLayout:
+        orientation: "horizontal"
+        Image:
+            source: "apple.jpg"
+            id: img
+    Button:
+        text: "Classify Image."
+        font_size: 30
+        on_press: app.classify_image()
+
