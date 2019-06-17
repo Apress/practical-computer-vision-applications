@@ -4,11 +4,6 @@ import matplotlib
 import NumPyCNN as numpycnn
 
 """
-Convolutional neural network implementation using NumPy
-An article describing this project is titled "Building Convolutional Neural Network using NumPy from Scratch". It is available in these links: https://www.linkedin.com/pulse/building-convolutional-neural-network-using-numpy-from-ahmed-gad/
-https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html
-It is also translated into Chinese: http://m.aliyun.com/yunqi/articles/585741
-
 The project is tested using Python 3.5.2 installed inside Anaconda 4.2.0 (64-bit)
 NumPy version used is 1.14.0
 
