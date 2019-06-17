@@ -12,20 +12,6 @@ After making sure the desktop application is working successfully, the Kivy appl
 The next figure shows the window of the application after running it in Linux.
 ![5](https://user-images.githubusercontent.com/16560492/57416236-a5933d00-71ff-11e9-8d3a-f87ab14f35ba.png)
 
-For details about building the ANN from scratch in NumPy, extracting the features, optimization using GA, and feature reduction, you can read my previous tutorials that covers these points in details.
-
-[Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset](https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad) 
-
-Its GitHub project: https://github.com/ahmedfgad/NumPyANN
-
-[Artificial Neural Networks Optimization using Genetic Algorithm with Python](https://www.linkedin.com/pulse/artificial-neural-networks-optimization-using-genetic-ahmed-gad) 
-
-Its GitHub project: https://github.com/ahmedfgad/NeuralGenetic
-
-[Feature Reduction using Genetic Algorithm with Python](https://www.linkedin.com/pulse/feature-reduction-using-genetic-algorithm-ahmed-gad) 
-
-Its GitHub project: https://github.com/ahmedfgad/FeatureReductionGenetic
-
 ## For Contacting Me
 * E-mail: ahmed.f.gad@gmail.com
 * LinkedIn: https://linkedin.com/in/ahmedfgad/
